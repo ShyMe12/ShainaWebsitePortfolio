@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ShainaWebsitePortfolio/static/css/main.689da1f4.css",
-    "main.js": "/ShainaWebsitePortfolio/static/js/main.6135da3f.js",
+    "main.css": "/ShainaWebsitePortfolio/static/css/main.30d7e94d.css",
+    "main.js": "/ShainaWebsitePortfolio/static/js/main.d0d8ef12.js",
     "static/js/787.7efd31bd.chunk.js": "/ShainaWebsitePortfolio/static/js/787.7efd31bd.chunk.js",
     "static/media/photo6.png": "/ShainaWebsitePortfolio/static/media/photo6.4b93bc8cf234929ca266.png",
     "static/media/photo8.png": "/ShainaWebsitePortfolio/static/media/photo8.fd2f0b5b4acb414daafe.png",
@@ -63,12 +63,12 @@
     "static/media/arrow2.svg": "/ShainaWebsitePortfolio/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
     "static/media/arrow1.svg": "/ShainaWebsitePortfolio/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/ShainaWebsitePortfolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.689da1f4.css.map": "/ShainaWebsitePortfolio/static/css/main.689da1f4.css.map",
-    "main.6135da3f.js.map": "/ShainaWebsitePortfolio/static/js/main.6135da3f.js.map",
+    "main.30d7e94d.css.map": "/ShainaWebsitePortfolio/static/css/main.30d7e94d.css.map",
+    "main.d0d8ef12.js.map": "/ShainaWebsitePortfolio/static/js/main.d0d8ef12.js.map",
     "787.7efd31bd.chunk.js.map": "/ShainaWebsitePortfolio/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.689da1f4.css",
-    "static/js/main.6135da3f.js"
+    "static/css/main.30d7e94d.css",
+    "static/js/main.d0d8ef12.js"
   ]
 }
