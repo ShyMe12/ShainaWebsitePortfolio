@@ -48,83 +48,83 @@ export const Projects = () => {
 
   const padmat = [
     {
-      title: "Prelim",
-      description: "Packaging",
+      title: "Packaging",
+      description: "Click n' Stitch (Academic Project)",
       imgUrl: padmatImg1,
     },
     {
-      title: "Prelim",
-      description: "Envelope, Business Card, Cover Letter",
+      title: "Envelope, Business Card, Cover Letter",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg2,
     },
     {
-      title: "Prelim",
-      description: "Clickn'Stitch Logo",
+      title: "Click n' Stitch Logo",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg3,
     },
     {
-      title: "Prelim",
-      description: "Stylescapes",
+      title: "Stylescapes",
+      description: "Click n' Stitch (Academic Project)",
       imgUrl: padmatImg4,
     },
     {
-      title: "Prelim",
-      description: "Stylescapes",
+      title: "Stylescapes",
+      description: "Click n' Stitch (Academic Project)",
       imgUrl: padmatImg5,
     },
     {
-      title: "Prelim",
-      description: "Stylescapes",
+      title: "Stylescapes",
+      description: "Click n' Stitch (Academic Project)",
       imgUrl: padmatImg6,
     },
     {
-      title: "Prelim",
-      description: "Stylescapes",
+      title: "Stylescapes",
+      description: "Click n' Stitch (Academic Project)",
       imgUrl: padmatImg7,
     },
     {
-      title: "Prelim",
-      description: "Stylescapes",
+      title: "Stylescapes",
+      description: "Click n' Stitch (Academic Project)",
       imgUrl: padmatImg8,
     },
     {
-      title: "Prelim",
-      description: "Stylescapes",
+      title: "Stylescapes",
+      description: "Click n' Stitch (Academic Project)",
       imgUrl: padmatImg9,
     },
     {
-      title: "Midterm",
-      description: "E-Newsletter Cover",
+      title: "E-Newsletter Cover",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg10,
     },
     {
-      title: "Midterm",
-      description: "E-Newsletter Content",
+      title: "E-Newsletter COntent",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg11,
     },
     {
-      title: "Pre-Finals",
-      description: "Annual Report",
+      title: "Annual Report",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg15,
     },
      {
-      title: "Pre-Finals",
-      description: "E-Magazine",
+      title: "E-Magazine",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg13,
     },
     {
-      title: "Pre-Finals",
-      description: "E-Catalogue",
+      title: "E-Catalogue",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg14,
     },
     {
-      title: "Finals",
-      description: "Clickn'Stitch Website",
+      title: "Click n' Stitch Website",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg12,
     },
     {
-      title: "Midterms",
-      description: "Infographics",
+      title: "Infographics",
+      description: "Click n' Stitch (Academic Group Project)",
       imgUrl: padmatImg16,
     },
   ];
@@ -271,7 +271,7 @@ const model = [
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projects</h2>
-                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                <p>Explore a collection of my creative works across Graphic Design, 3D Modeling, and more. Each project reflects my euthusiasm, and passion while showscasing my style and attention to detail.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                    <Nav.Item>
